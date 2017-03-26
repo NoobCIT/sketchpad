@@ -3,25 +3,24 @@ body {
 }
 
 div.header {
-  background-color: red;
 }
 
 div#content {
   margin: 0px auto auto;
-  width: 500px;
-  height: 500px;
+  height: 960px;
+  width: 960px;
 }
 
 div.footer {
   background-color: green;
   position: absolute;
   bottom: 0;
+  width: 100%;
 }
 
 div.button {
-  background-color: yellow;
-  width: 100%;
-  margin: 16px 0px;
+  width: 30px;
+  margin: 16px auto 16px auto;
   display: block;
 }
 
